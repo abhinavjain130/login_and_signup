@@ -59,6 +59,7 @@ header{
     font-size: 2em ;
     color: #fff;
     user-select: none;
+    backdrop-filter: blur(20px);
 
 }
 
